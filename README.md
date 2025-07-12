@@ -1,4 +1,4 @@
-# AstraNet
+# AstraNet(Corporate Solution)
 
 AstraNet is a lightweight secure communications toolkit designed for distributed logistics networks operating in critical environments.
 It provides a Python API for encrypted messaging, dynamic routing, and automated failover between nodes.
